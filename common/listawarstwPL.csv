@@ -1,0 +1,27 @@
+nazwa warstwy,kolor,Widocznoœæ 
+SV_Durchbrüche,151,0
+SV_Durchbrüche-Text,151,0
+SV_Exhaust,80,1
+SV_Extract,191,1
+SV_Intake,130,1
+SV_Supply,140,1
+SVP_Exhaust,80,0
+SVP_Extract,191,0
+SVP_Intake,130,0
+SVP_Supply,140,0
+SVP_Heizungsrücklauf,172,0
+SVP_Heizungsvorlauf,10,0
+SVP_Raumthermostat,131,0
+SVP_Trinkwasser Kalt,90,0
+SVP_Trinkwasser Warm,210,0
+SVP_Zirkulation,31,0
+SVP_Schmutzwasser,42,0
+SV_Exhaust_PL,,0
+SV_Extract_PL,,0
+SV_Intake_PL,,0
+SV_Supply_PL,,0
+SVP_Exhaust_PL,,0
+SVP_Extract_PL,,0
+SVP_Intake_PL,,0
+SVP_Supply_PL,,0
+SVP_abwasser,,0
